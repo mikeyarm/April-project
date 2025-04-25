@@ -35,11 +35,17 @@ footer .text a:hover {
 
 #navbar {
     transition: 0.3s ease;
-    background-color: #f49116;
+    background-color: #F2E8C6;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
 }
 
 .navbar.scrolled {
-    background: #f49116;
+    background: #F2E8C6;
     backdrop-filter: blur(10px);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
@@ -52,7 +58,7 @@ footer .text a:hover {
     text-align:center;
     margin-left: auto;
     margin-right: auto;
-    background-color: #fae883;
+    background-color: #BF3131;
     height: 100vh;
     width: 100%; 
 }
