@@ -29,6 +29,12 @@ body {
 
 p {
     margin: 0 20px;
+    font-size: 20px;
+}
+
+.main-text {
+    padding-left: 500px;
+    padding-right: 500px;
 }
 
 footer .container {
@@ -142,4 +148,8 @@ footer .text a:hover {
 
 .comp {
     height: 300px;
+}
+
+.ed {
+    padding-bottom: 15px;
 }
